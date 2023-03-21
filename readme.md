@@ -19,7 +19,7 @@ source venv/bin/activate
 - Faça um clone do projeto executando o seguinte comando no terminal
 
 ```
-
+git clone https://github.com/guilhermeonrails/qrcode.git
 ```
 
 - Com a venv ativada, instale as depenências deste projeto com o seguite comando:
