@@ -16,7 +16,7 @@ source venv/bin/activate
 
 > No Windows, ative com o comando `venv\Scripts\activate.bat`
 
-- Faça um clone do projeto executando o seguinte comando no terminal
+- Faça um clone do projeto executando o seguinte comando no terminal (não esqueça de remover o zip do arquivo 😛)
 
 ```
 git clone https://github.com/guilhermeonrails/qrcode.git
